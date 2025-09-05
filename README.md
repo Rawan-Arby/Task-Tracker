@@ -1,8 +1,11 @@
-# AngularCrash
+# 📝 Angular Crash - Task Tracker
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.2.1.
+This project is a **Task Tracker Application** built with **Angular**.  
+It allows users to add, display, and manage tasks dynamically, using **HTTP requests** to fetch and update data from a mock backend (`db.json`).
 
-## 🎥 Project Demo
+---
+
+## 🎥 Demo
 Check out the video demonstration of the project here:  
 [![Watch the video](https://img.youtube.com/vi/Q-DE1O5BN4U/0.jpg)](https://youtu.be/Q-DE1O5BN4U)
 
@@ -11,7 +14,27 @@ Check out the video demonstration of the project here:
 ## 👨‍💻 Author
 Developed by **Rawan Arby**
 
+---
 
+## 🚀 Features
+- View all tasks (fetched from `db.json` via HTTP).
+- Add new tasks dynamically.
+- Delete tasks.
+- Toggle task reminder (double click).
+- About page with app details.
+- Reusable button and UI components.
+- Uses **Angular Services** to handle HTTP requests and business logic.
+
+---
+
+## ⚡ Technologies Used
+- Angular 20.2.1
+- TypeScript
+- JSON Server (for mock backend)
+- RxJS & Observables (for async HTTP calls)
+- Angular CLI
+
+---
 ## Development server
 
 To start a local development server, run:
