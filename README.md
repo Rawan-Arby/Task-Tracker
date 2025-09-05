@@ -3,18 +3,15 @@
 This project is a **Task Tracker Application** built with **Angular**.  
 It allows users to add, display, and manage tasks dynamically, using **HTTP requests** to fetch and update data from a mock backend (`db.json`).
 
----
 
 ## 🎥 Demo
 Check out the video demonstration of the project here:  
 [![Watch the video](https://img.youtube.com/vi/Q-DE1O5BN4U/0.jpg)](https://youtu.be/Q-DE1O5BN4U)
 
----
 
 ## 👨‍💻 Author
 Developed by **Rawan Arby**
 
----
 
 ## Development server
 
