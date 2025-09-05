@@ -4,7 +4,7 @@ This project was generated using [Angular CLI](https://github.com/angular/angula
 
 ## 🎥 Project Demo
 Check out the video demonstration of the project here:  
-[![Watch the video](https://img.youtube.com/vi/Q-DE1O5BN4U/0.jpg)](https://www.youtube.com/watch?v=Q-DE1O5BN4U)
+[![Watch the video](https://img.youtube.com/vi/Q-DE1O5BN4U/0.jpg)](https://youtu.be/Q-DE1O5BN4U)
 
 ---
 
