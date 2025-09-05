@@ -5,12 +5,6 @@ It allows users to add, display, and manage tasks dynamically, using **HTTP requ
 
 ---
 
-## 🖼 Screenshot
-![App Screenshot](<img width="1897" height="908" alt="Screenshot 2025-09-06 020022" src="https://github.com/user-attachments/assets/5f4af35a-5d6a-4ddf-b50e-57f117ef0442" />
-)
-
----
-
 ## 🎥 Demo
 Check out the video demonstration of the project here:  
 [![Watch the video](https://img.youtube.com/vi/Q-DE1O5BN4U/0.jpg)](https://youtu.be/Q-DE1O5BN4U)
