@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "text": "Team Standup Meeting",
+      "day": "Sep 4th at 9:00am",
+      "reminder": true
+    },
+    {
+      "id": "2",
+      "text": "Doctor Appointment",
+      "day": "Sep 5th at 11:00am",
+      "reminder": true
+    },
+    {
+      "id": "3",
+      "text": "Project Deadline",
+      "day": "Sep 6th at 4:00pm",
+      "reminder": false
+    },
+    {
+      "id": "5",
+      "text": "Friend's Birthday Party",
+      "day": "Sep 8th at 7:00pm",
+      "reminder": false
+    },
+    {
+      "id": "6",
+      "text": "Gym Workout",
+      "day": "Sep 9th at 8:00am",
+      "reminder": false
+    }
+  ]
+}
