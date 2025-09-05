@@ -2,6 +2,16 @@
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.2.1.
 
+## 🎥 Project Demo
+Check out the video demonstration of the project here:  
+[![Watch the video](https://img.youtu.be/Q-DE1O5BN4U)][(https://www.youtube.com/watch?v=VIDEO_ID](https://youtu.be/Q-DE1O5BN4U))
+
+---
+
+## 👨‍💻 Author
+Developed by **Rawan Arby**
+
+
 ## Development server
 
 To start a local development server, run:
