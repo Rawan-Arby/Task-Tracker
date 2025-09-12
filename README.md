@@ -33,7 +33,6 @@ Check out the video demonstration of the project here:
 1. Clone the repository
 ```bash
 git clone https://github.com/your-username/Investigation-Game.git
- ```bash
 cd Investigation-Game
 
 2. Install dependencies
