@@ -31,25 +31,22 @@ Check out the video demonstration of the project here:
 ## How to Run the Project
 
 1. Clone the repository
-  git clone https://github.com/your-username/Investigation-Game.git
-  cd Investigation-Game
+  - git clone https://github.com/your-username/Investigation-Game.git
+  - cd Investigation-Game
 
 2. Install dependencies
-  npm install
+  - npm install
 
 3. Start the development server
-  ng serve --open
+  - ng serve --open
   App will run at: http://localhost:4200/
 
 4. (Optional) Start mock backend
-  npx json-server --watch db.json --port 5000
+  - npx json-server --watch db.json --port 5000
 
 5. Build for production
-  ng build --configuration production
+  - ng build --configuration production
 
 6. Run tests
   Unit tests: `ng test`
   End-to-end tests: `ng e2e`
-
-
-
