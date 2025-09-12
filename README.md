@@ -3,12 +3,6 @@
 This project is a **Task Tracker Application** built with **Angular**.  
 It allows users to add, display, and manage tasks dynamically, using **HTTP requests** to fetch and update data from a mock backend (`db.json`).
 
-
-## 🎥 Demo
-Check out the video demonstration of the project here:  
-[![Watch the video](https://img.youtube.com/vi/Q-DE1O5BN4U/0.jpg)](https://youtu.be/Q-DE1O5BN4U)
-
-
 ## 🚀 Features
 - View all tasks (fetched from `db.json` via HTTP).
 - Add new tasks dynamically.
@@ -30,62 +24,38 @@ Check out the video demonstration of the project here:
 ## 👨‍💻 Author
 Developed by **Rawan Arby**
 
----
+## 🎥 Demo
+Check out the video demonstration of the project here:  
+[![Watch the video](https://img.youtube.com/vi/Q-DE1O5BN4U/0.jpg)](https://youtu.be/Q-DE1O5BN4U)
 
-## Development server
+## How to Run the Project
 
-To start a local development server, run:
-
+1. Clone the repository
 ```bash
-ng serve
-```
+git clone https://github.com/your-username/Investigation-Game.git
+ ```bash
+cd Investigation-Game
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+2. Install dependencies
+ ```bash
+npm install
 
-## Code scaffolding
+3. Start the development server
+ ```bash
+ng serve --open
+App will run at: http://localhost:4200/
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
+4. (Optional) Start mock backend
+ ```bash
+npx json-server --watch db.json --port 5000
 
-```bash
-ng generate component component-name
-```
+5. Build for production
+ ```bash
+ng build --configuration production
 
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
+6. Run tests
+Unit tests: `ng test`
+End-to-end tests: `ng e2e`
 
-```bash
-ng generate --help
-```
-
-## Building
-
-To build the project run:
-
-```bash
-ng build
-```
-
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
-
-## Running unit tests
-
-To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
-
-```bash
-ng test
-```
-
-## Running end-to-end tests
-
-For end-to-end (e2e) testing, run:
-
-```bash
-ng e2e
-```
-
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
-
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
 
 
